@@ -15,7 +15,7 @@ O objetivo desse projeto é recriar a interface do Nubank tendo como base o víd
 <br/>
 
 <h2><strong>:satellite: Tecnologias</strong></h2>
-<h3>Versão Mobile: React-Native</h3> <br/>
+React-Native <br/>
 
 <h2>:wrench: Sobre as Dependências:</h2>
 yarn add react-native-gesture-handler <br/>
