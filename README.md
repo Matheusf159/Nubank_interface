@@ -1,11 +1,11 @@
-<h1 align="center">
-    <img alt="DevRadar" title="#delicinha" src=".github/front.png" width="250px" />
+# Interface - Nubank
+
+<h1 align="left">
+    <img alt="front" title="#delicinha" src=".github/front.png" width="250px" />
 </h1>
 
-<br>
-
-<p align="center">
-  <img alt="Frontend" src=".github/menu.png" width="100%">
+<h1 align="left">
+  <img alt="menu" title="#delicinha" src=".github/menu.png" width=250px">
 </p>
 
 ## :rocket: Tecnologias
