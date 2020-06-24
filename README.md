@@ -1,12 +1,10 @@
 # Interface - Nubank
 
-<h1 align="left">
-    <img alt="front" title="#delicinha" src=".github/front.png" width="250px" />
+<h1 >
+    <img alt="front" title="#delicinha" src=".github/front.png" width="250px" align="right"/>
+    <img alt="menu" src=".github/menu.png" width=250px" align="left">
 </h1>
-
-<h1 align="left">
-  <img alt="menu" title="#delicinha" src=".github/menu.png" width=250px">
-</p>
+</h1>
 
 ## :rocket: Tecnologias
 
