@@ -1,7 +1,7 @@
 # Interface - Nubank
 
 
-💻 Projeto
+<h3>:computer: Projeto</h3>
 
 O objetivo desse projeto é recriar a interface do Nubank tendo como base o vídeo da Rocketseat encontrado em: https://www.youtube.com/watch?v=DDm0M_rZLJo&t=122s.
 
@@ -15,7 +15,7 @@ O objetivo desse projeto é recriar a interface do Nubank tendo como base o víd
 <br/>
 
 <h2><strong>:satellite: Tecnologias</strong></h2>
-<h3>Versão Mobile: React-Native + TypeScript</h3>
+<h3>Versão Mobile: React-Native</h3> <br/>
 
 <h2>:wrench: Sobre as Dependências:</h2>
 yarn add react-native-gesture-handler <br/>
