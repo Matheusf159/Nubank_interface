@@ -10,7 +10,7 @@ O objetivo desse projeto é recriar a interface do Nubank tendo como base o víd
     <img alt="front" src=".github/front.png" width="250px" align="left"/>
     <img alt="menu" src=".github/menu.png" width=250px" align="center">
 </h1>
-</h1>
+
 
 <br/>
 
